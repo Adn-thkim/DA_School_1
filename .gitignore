@@ -7,6 +7,8 @@
 
 *.ipynb_checkpoints
 */.ipynb_checkpoints/*
+*chat_gpt_api.ipynb
+*/chat_gpt_api.ipynb/*
 
 # IPython
 # profile_default/
