@@ -9,6 +9,8 @@
 */.ipynb_checkpoints/*
 *chat_gpt_api.ipynb
 */chat_gpt_api.ipynb/*
+*.DS_Store
+*/.DS_Store/*
 
 # IPython
 # profile_default/
