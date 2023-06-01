@@ -5,6 +5,7 @@
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
+*Untitled.ipynb
 *.ipynb_checkpoints
 */.ipynb_checkpoints/*
 *chat_gpt_api.ipynb
