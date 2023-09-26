@@ -1,1 +1,18 @@
-# 데이터 분석 스쿨 및 스터디 학습
+# Python 을 활용한 EDA 맟 Machine Learning Algorithm
+
+## EDA
+- pandas
+- numpy
+
+## Visualization
+- matplotlib
+- seaborn
+- folium
+
+## Machine Learning
+- regression
+- decision tree
+- clustering
+
+## DeepLearning
+- 
