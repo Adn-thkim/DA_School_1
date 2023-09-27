@@ -15,4 +15,5 @@
 - clustering
 
 ## DeepLearning
-- 
+- SLP (Single Layer Perceptron)
+- MLP (Multi Layer Perceptron)
