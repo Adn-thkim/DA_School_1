@@ -1,4 +1,4 @@
-# Python 을 활용한 EDA 맟 Machine Learning Algorithm
+# Python 을 활용한 EDA 및 Machine Learning Algorithm
 
 ## EDA
 - pandas
