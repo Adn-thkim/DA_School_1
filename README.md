@@ -1,18 +1,18 @@
 # Python 을 활용한 EDA 및 Machine Learning Algorithm
 
 ## EDA
-- pandas
-- numpy
+- Pandas
+- Numpy
 
 ## Visualization
-- matplotlib
-- seaborn
-- folium
+- Matplotlib
+- Seaborn
+- Folium
 
 ## Machine Learning
-- regression
-- decision tree
-- clustering
+- Regression
+- Decision Tree
+- Clustering
 
 ## DeepLearning
 - SLP (Single Layer Perceptron)
