@@ -1,5 +1,8 @@
 # Python 을 활용한 EDA 및 Machine Learning Algorithm
 
+## Study notes
+- Function
+
 ## EDA
 - Pandas
 - Numpy
