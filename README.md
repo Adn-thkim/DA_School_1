@@ -5,6 +5,7 @@
 - Mutable data type
 - Oprator
 - Function
+- Control Statement
 
 ## EDA
 - Pandas
