@@ -1,8 +1,8 @@
 # Python 을 활용한 EDA 및 Machine Learning Algorithm
 
 ## Study notes
-- Immutable data type
-- Mutable data type
+- Immutable Data Type
+- Mutable Data Type
 - Oprator
 - Function
 - Control Statement
