@@ -1,4 +1,4 @@
-# Python 을 활용한 EDA 및 Machine Learning Algorithm
+# Python을 활용한 EDA 및 Machine Learning
 
 ## Study notes
 - Immutable Data Type
@@ -6,12 +6,16 @@
 - Oprator
 - Function
 - Control Statement
+- Regular Expression
+- Web Scrapping
 
-## EDA
+## Libraries
 - Pandas
 - Numpy
-
-## Visualization
+- Re
+- BeautifulSoup
+- Requests
+**Visualization**
 - Matplotlib
 - Seaborn
 - Folium
@@ -20,6 +24,9 @@
 - Regression
 - Decision Tree
 - Clustering
+  - K-Means
+  - DBSCAN
+  - PCA
 
 ## DeepLearning
 - SLP (Single Layer Perceptron)
