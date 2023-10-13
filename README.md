@@ -19,10 +19,13 @@
 **Visualization**
 - Matplotlib
 - Seaborn
+- Plotly
 - Folium
+- Streamlit
 
 ## Machine Learning
 - Regression
+- Logistic Regression
 - Decision Tree
 - Clustering
   - K-Means
