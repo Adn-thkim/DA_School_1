@@ -13,6 +13,8 @@
 - Pandas
 - Numpy
 - Re
+
+**Web Scrapping**
 - BeautifulSoup
 - Requests
   
