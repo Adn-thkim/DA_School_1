@@ -25,6 +25,11 @@
 - Folium
 - Streamlit
 
+## Marketing Analysis
+- RFM
+- Retention
+- Funnel
+
 ## Machine Learning
 - Regression
 - Logistic Regression
