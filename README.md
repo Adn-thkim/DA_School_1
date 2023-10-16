@@ -3,6 +3,8 @@
 ## Study notes
 - Immutable Data Type
 - Mutable Data Type
+  - List
+  - Dictionary
 - Oprator
 - Function
 - Control Statement
