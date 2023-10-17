@@ -2,6 +2,10 @@
 
 ## Study notes
 - Immutable Data Type
+  - INT
+  - FLOAT
+  - STRING
+  - TUPLE
 - Mutable Data Type
   - List
   - Dictionary
