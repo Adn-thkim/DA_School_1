@@ -33,6 +33,7 @@
 
 ## Marketing Analysis
 - RFM
+- Cohort
 - Retention
 - Funnel
 
