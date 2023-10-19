@@ -2,8 +2,7 @@
 
 ## Study notes
 - Immutable Data Type
-  - INT
-  - FLOAT
+  - NUMERIC(int, float)
   - STRING
   - TUPLE
 - Mutable Data Type
