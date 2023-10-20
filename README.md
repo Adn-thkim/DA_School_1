@@ -10,6 +10,8 @@
   - Dictionary
 - Oprator
 - Function
+  - Decorator
+  - Generator
 - Control Statement
 - Regular Expression
 - Web Scrapping
