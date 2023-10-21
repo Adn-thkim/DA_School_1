@@ -13,6 +13,8 @@
   - Decorator
   - Generator
 - Control Statement
+  - for
+  - while
 - Regular Expression
 - Web Scrapping
 
