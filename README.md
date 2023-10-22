@@ -15,8 +15,11 @@
 - Control Statement
   - for
   - while
+  - if
 - Regular Expression
 - Web Scrapping
+  - Static
+  - Dynamic
 
 ## Libraries
 - Pandas
