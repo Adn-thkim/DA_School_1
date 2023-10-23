@@ -2,12 +2,13 @@
 
 ## Study notes
 - Immutable Data Type
-  - NUMERIC(int, float)
-  - STRING
-  - TUPLE
+  - Numeric(Int, Float)
+  - String
+  - Tuple
 - Mutable Data Type
   - List
   - Dictionary
+  - Array
 - Oprator
 - Function
   - Decorator
