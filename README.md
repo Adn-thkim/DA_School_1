@@ -30,6 +30,7 @@
 **Web Scrapping**
 - BeautifulSoup
 - Requests
+- Selenium
   
 **Visualization**
 - Matplotlib
