@@ -11,6 +11,7 @@
   - Array
 - Oprator
 - Function
+  - Gerneral Function(def)
   - Decorator
   - Generator
 - Control Statement
@@ -26,6 +27,7 @@
 - Pandas
 - Numpy
 - Re
+- 
 
 **Web Scrapping**
 - BeautifulSoup
