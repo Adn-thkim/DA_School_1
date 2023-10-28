@@ -51,6 +51,7 @@
 - Regression
 - Logistic Regression
 - Decision Tree
+- Ensemble
 - Clustering
   - K-Means
   - DBSCAN
