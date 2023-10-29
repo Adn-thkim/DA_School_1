@@ -56,6 +56,7 @@
   - K-Means
   - DBSCAN
   - PCA
+  - Silouhette Score
 
 ## DeepLearning
 - SLP (Single Layer Perceptron)
