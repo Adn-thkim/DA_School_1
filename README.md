@@ -27,7 +27,6 @@
 - Pandas
 - Numpy
 - Re
-- 
 
 **Web Scrapping**
 - BeautifulSoup
