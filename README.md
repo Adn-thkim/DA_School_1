@@ -50,7 +50,7 @@
 - Regression
 - Logistic Regression
 - Decision Tree
-- Ensemble(Random Forest)
+- Ensemble(Random Forest, XGB)
 - Clustering
   - K-Means
   - DBSCAN
