@@ -20,8 +20,8 @@
   - if
 - Regular Expression
 - Web Scrapping
-  - Static
-  - Dynamic
+  - Static Web Page
+  - Dynamic Web Page
 
 ## Libraries
 - Pandas
