@@ -24,6 +24,7 @@
   - Dynamic Web Page
 
 ## Libraries
+### tidy data
 - Pandas
 - Numpy
 - Re
