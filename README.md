@@ -27,6 +27,8 @@
 **tidy data**
 - Pandas
 - Numpy
+
+**Regular Expression**
 - Re
 
 **Web Scrapping**
