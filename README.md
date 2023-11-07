@@ -28,9 +28,6 @@
 - Pandas
 - Numpy
 
-**Regular Expression**
-- Re
-
 **Web Scrapping**
 - BeautifulSoup
 - Requests
@@ -42,6 +39,9 @@
 - Plotly
 - Folium
 - Streamlit
+
+**Regular Expression**
+- Re
 
 ## Marketing Analysis
 - RFM
