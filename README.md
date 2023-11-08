@@ -58,6 +58,8 @@
   - K-Means
   - DBSCAN
   - PCA
+
+### Evaluation Metric
   - Silouhette Score
 
 ## DeepLearning
