@@ -60,6 +60,7 @@
   - PCA
 
 ### Evaluation Metric
+  - RMSE, RMSLE
   - Silouhette Score
 
 ## DeepLearning
