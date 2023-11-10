@@ -43,6 +43,9 @@
 **Regular Expression**
 - Re
 
+**Machine Learning**
+- Sklearn
+
 ## Marketing Analysis
 - RFM
 - Cohort
