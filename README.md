@@ -64,6 +64,7 @@
 
 ### Evaluation Metric
   - RMSE, RMSLE
+  - R-square
   - Silouhette Score
 
 ## DeepLearning
