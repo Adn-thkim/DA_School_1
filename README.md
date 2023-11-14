@@ -55,7 +55,7 @@
 ## Machine Learning
 - Regression
 - Logistic Regression
-- Decision Tree
+- Tree
 - Ensemble(Random Forest, XGB, LightGBM, Cat Boost)
 - Clustering
   - K-Means
