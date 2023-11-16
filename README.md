@@ -1,4 +1,5 @@
 # Python을 활용한 EDA 및 Machine Learning
+
 ## Study notes
 - Immutable Data Type
   - Numeric(Int, Float)
