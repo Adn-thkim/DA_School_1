@@ -45,6 +45,7 @@
 
 **Machine Learning**
 - Sklearn
+- Keras
 
 ## Marketing Analysis
 - RFM
