@@ -50,7 +50,7 @@
 ## Marketing Analysis
 - RFM
 - Cohort
-- Retention
+- Retention(N-Day)
 - Funnel
 
 ## Machine Learning
