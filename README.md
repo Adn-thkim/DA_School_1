@@ -50,7 +50,7 @@
 ## Marketing Analysis
 - RFM
 - Cohort
-- Retention(N-Day, Unbounded)
+- Retention(N-Day, Unbounded, Bracket)
 - Funnel
 
 ## Machine Learning
