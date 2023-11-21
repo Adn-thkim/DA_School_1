@@ -63,7 +63,7 @@
   - DBSCAN
   - PCA
 
-### Evaluation Metric
+### Evaluation Metrics
   - RMSE, RMSLE
   - R-square
   - Silouhette Score
