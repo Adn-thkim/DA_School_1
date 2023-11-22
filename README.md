@@ -48,7 +48,7 @@
 - Keras
 
 ## Marketing Analysis
-- RFM
+- RFM(Recency, Frequency, Monetary)
 - Cohort
 - Retention(N-Day, Unbounded, Bracket)
 - Funnel
