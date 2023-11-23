@@ -8,7 +8,7 @@
 - Mutable Data Type
   - List
   - Dictionary
-  - Array
+  - Array(Numpy)
 - Oprator
 - Function
   - Gerneral Function(def)
