@@ -10,6 +10,7 @@
   - Dictionary
   - Array(Numpy)
 - Oprator
+  - Arithmetic(산술)
 - Function
   - Gerneral Function(def)
   - Decorator
