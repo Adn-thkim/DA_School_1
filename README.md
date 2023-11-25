@@ -11,6 +11,7 @@
   - Array(Numpy)
 - Oprator
   - Arithmetic(산술)
+  - Comparison(비교)
 - Function
   - Gerneral Function(def)
   - Decorator
