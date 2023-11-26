@@ -12,6 +12,7 @@
 - Oprator
   - Arithmetic(산술)
   - Comparison(비교)
+  - Logical(논리)
 - Function
   - Gerneral Function(def)
   - Decorator
