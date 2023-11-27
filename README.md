@@ -9,7 +9,7 @@
   - List
   - Dictionary
   - Array(Numpy)
-- Oprator
+- Oprator(연산자)
   - Arithmetic(산술)
   - Comparison(비교)
   - Logical(논리)
