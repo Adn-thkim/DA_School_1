@@ -13,7 +13,7 @@
   - Arithmetic(산술)
   - Comparison(비교)
   - Logical(논리)
-- Function
+- Function(함수)
   - Gerneral Function(def)
   - Decorator
   - Generator
