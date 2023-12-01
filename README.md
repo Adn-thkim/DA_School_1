@@ -17,7 +17,7 @@
   - Gerneral Function(def)
   - Decorator
   - Generator
-- Control Statement
+- Control Statement(제어문)
   - for
   - while
   - if
