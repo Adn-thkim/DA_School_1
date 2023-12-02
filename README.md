@@ -21,7 +21,7 @@
   - for
   - while
   - if
-- Regular Expression
+- Regular Expression(정규표현식)
 - Web Scrapping
   - Static Web Page
   - Dynamic Web Page
