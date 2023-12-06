@@ -26,6 +26,12 @@
   - Static Web Page(정적 웹 페이지)
   - Dynamic Web Page(동적 웹 페이지)
 
+## Marketing Analysis
+- RFM(Recency, Frequency, Monetary)
+- Cohort
+- Retention(N-Day, Unbounded, Bracket)
+- Funnel
+
 ## Libraries
 **tidy data**
 - Pandas
@@ -49,12 +55,6 @@
 **Machine Learning**
 - Sklearn
 - Keras
-
-## Marketing Analysis
-- RFM(Recency, Frequency, Monetary)
-- Cohort
-- Retention(N-Day, Unbounded, Bracket)
-- Funnel
 
 ## Machine Learning
 - Regression
