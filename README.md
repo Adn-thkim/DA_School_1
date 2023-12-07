@@ -32,6 +32,21 @@
 - Retention(N-Day, Unbounded, Bracket)
 - Funnel
 
+## Machine Learning
+- Regression
+- Logistic Regression
+- Tree
+- Ensemble(Random Forest, XGB, LightGBM, Cat Boost)
+- Clustering
+  - K-Means
+  - DBSCAN
+  - PCA
+
+### Evaluation Metrics
+  - RMSE, RMSLE
+  - R-square
+  - Silouhette Score
+
 ## Libraries
 **tidy data**
 - Pandas
@@ -55,21 +70,6 @@
 **Machine Learning**
 - Sklearn
 - Keras
-
-## Machine Learning
-- Regression
-- Logistic Regression
-- Tree
-- Ensemble(Random Forest, XGB, LightGBM, Cat Boost)
-- Clustering
-  - K-Means
-  - DBSCAN
-  - PCA
-
-### Evaluation Metrics
-  - RMSE, RMSLE
-  - R-square
-  - Silouhette Score
 
 ## DeepLearning
 - SLP (Single Layer Perceptron)
