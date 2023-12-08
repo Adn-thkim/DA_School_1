@@ -47,6 +47,10 @@
   - R-square
   - Silouhette Score
 
+## DeepLearning
+- SLP (Single Layer Perceptron)
+- MLP (Multi Layer Perceptron)
+
 ## Libraries
 **tidy data**
 - Pandas
@@ -70,7 +74,3 @@
 **Machine Learning**
 - Sklearn
 - Keras
-
-## DeepLearning
-- SLP (Single Layer Perceptron)
-- MLP (Multi Layer Perceptron)
