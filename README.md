@@ -36,7 +36,7 @@
 - Regression
 - Logistic Regression
 - Tree
-- Ensemble(Bagging, Random Forest, XGB, LightGBM, Cat Boost)
+- Ensemble(Bagging, Random Forest, XGBoost, LightGBM, Cat Boost)
 - Clustering
   - K-Means
   - DBSCAN
