@@ -18,7 +18,7 @@
   - Decorator
   - Generator
 - Control Statement(제어문)
-  - for
+  - 반복문(for)
   - while
   - if
 - Regular Expression(정규표현식)
