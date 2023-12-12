@@ -18,8 +18,7 @@
   - Decorator
   - Generator
 - Control Statement(제어문)
-  - 반복문(for)
-  - while
+  - 반복문(for, while)
   - if
 - Regular Expression(정규표현식)
 - Web Scrapping(웹 스크래핑)
