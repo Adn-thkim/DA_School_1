@@ -19,7 +19,7 @@
   - Generator
 - Control Statement(제어문)
   - 반복문(for, while)
-  - if
+  - 조건문(if)
 - Regular Expression(정규표현식)
 - Web Scrapping(웹 스크래핑)
   - Static Web Page(정적 웹 페이지)
