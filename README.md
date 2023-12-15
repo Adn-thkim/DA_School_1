@@ -26,12 +26,12 @@
   - Dynamic Web Page(동적 웹 페이지)
 
 ## Marketing Analysis
+- Retention(N-Day, Unbounded, Bracket)
+- Funnel
 
 ### Segmentation
 - RFM(Recency, Frequency, Monetary)
 - Cohort
-- Retention(N-Day, Unbounded, Bracket)
-- Funnel
 
 ## Machine Learning
 - Regression
