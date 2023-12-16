@@ -37,11 +37,11 @@
 - Regression
 - Logistic Regression
 - Tree
-- Ensemble(Bagging, Random Forest, XGBoost, LightGBM, Cat Boost)
+- Ensemble(Bagging, Random Forest, XGBoost, LightGBM, CatBoost)
 - Clustering
   - K-Means
   - DBSCAN
-  - PCA
+  - PCA(주성분 분석, Principle Component Analysis)
 
 ### Evaluation Metrics
   - RMSE, RMSLE
