@@ -1,9 +1,8 @@
 # Python을 활용한 EDA 및 Machine Learning
 
-
 ## Study notes
 - Immutable Data Type(불변 자료형)
-  - Numeric(Int, Float)
+  - Numeric(숫자형, Int, Float)
   - String
   - Tuple
 - Mutable Data Type(가변 자료형)
