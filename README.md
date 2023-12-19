@@ -3,7 +3,7 @@
 ## Study notes
 - Immutable Data Type(불변 자료형)
   - Numeric(숫자형, Int, Float)
-  - String
+  - String(문자형)
   - Tuple
 - Mutable Data Type(가변 자료형)
   - List
