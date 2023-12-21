@@ -4,7 +4,7 @@
 - Immutable Data Type(불변 자료형)
   - Numeric(숫자형, Int, Float)
   - String(문자형)
-  - Tuple
+  - Tuple(튜플)
 - Mutable Data Type(가변 자료형)
   - List
   - Dictionary
