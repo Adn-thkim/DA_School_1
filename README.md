@@ -6,7 +6,7 @@
   - String(문자형)
   - Tuple(튜플)
 - Mutable Data Type(가변 자료형)
-  - List
+  - List(리스트)
   - Dictionary
   - Array(Numpy)
 - Oprator(연산자)
