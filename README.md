@@ -7,7 +7,7 @@
   - Tuple(튜플)
 - Mutable Data Type(가변 자료형)
   - List(리스트)
-  - Dictionary
+  - Dictionary(딕셔너리)
   - Array(Numpy)
 - Oprator(연산자)
   - Arithmetic(산술)
