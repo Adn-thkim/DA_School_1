@@ -38,7 +38,7 @@
 - Logistic Regression
 - Tree
 - Ensemble(Bagging, Random Forest, XGBoost, LightGBM, CatBoost)
-- K-NN
+- K-NN(K-Nearest Neighbor)
 - Clustering
   - K-Means
   - DBSCAN(밀도 기반 클러스터링, Density-Based Spatial Clustering)
