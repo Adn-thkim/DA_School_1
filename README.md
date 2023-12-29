@@ -40,7 +40,7 @@
 - Ensemble(Bagging, Random Forest, XGBoost, LightGBM, CatBoost)
 - k-NN(k-Nearest Neighbor)
 - Clustering
-  - K-Means
+  - K-Means Clustering
   - DBSCAN(밀도 기반 클러스터링, Density-Based Spatial Clustering)
   - PCA(주성분 분석, Principle Component Analysis)
 
