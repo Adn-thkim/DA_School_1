@@ -8,7 +8,7 @@
 - Mutable Data Type(가변 자료형)
   - List(리스트)
   - Dictionary(딕셔너리)
-  - Array(Numpy)
+  - Array(배열, Numpy)
 - Oprator(연산자)
   - Arithmetic(산술)
   - Comparison(비교)
