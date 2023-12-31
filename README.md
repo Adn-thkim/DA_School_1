@@ -27,7 +27,7 @@
 
 ## Marketing Analysis
 - Retention(N-Day, Unbounded, Bracket)
-- Funnel
+- Funnel Analysis
 
 ### Segmentation
 - RFM(Recency, Frequency, Monetary)
