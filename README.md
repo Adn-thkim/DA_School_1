@@ -26,6 +26,7 @@
   - Dynamic Web Page(동적 웹 페이지)
 
 ## Marketing Analysis
+- AARRR
 - Retention(N-Day, Unbounded, Bracket)
 - Funnel Analysis
 
