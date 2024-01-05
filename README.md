@@ -26,7 +26,7 @@
   - Dynamic Web Page(동적 웹 페이지)
 
 ## Marketing Analysis
-- AARRR
+- AARRR(Pirate Metrics, 해적지표)
 - Retention(N-Day, Unbounded, Bracket)
 - Funnel Analysis
 
