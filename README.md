@@ -56,7 +56,7 @@
 - MLP (Multi Layer Perceptron)
 
 ## Libraries
-**tidy data**
+**Data Preprocessing**
 - Pandas
 - Numpy
 
