@@ -32,7 +32,7 @@
 
 ### Segmentation
 - RFM(Recency, Frequency, Monetary)
-- Cohort
+- Cohort Analysis
 
 ## Machine Learning
 - Regression
