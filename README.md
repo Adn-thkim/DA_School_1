@@ -37,7 +37,7 @@
 ## Machine Learning
 - Regression
 - Logistic Regression
-- Tree
+- Decision Tree
 - Ensemble(Bagging, Random Forest, XGBoost, LightGBM, CatBoost)
 - k-NN(k-Nearest Neighbor)
 - Clustering
