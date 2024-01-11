@@ -76,6 +76,6 @@
 - Re
 
 **Machine Learning**
-- Sklearn
+- Sklearn(scikit-learn)
 - Keras
 - TensorFlow
