@@ -52,7 +52,7 @@
   - Silouhette Score
 
 ## DeepLearning
-- SLP (Single-Layer Perceptron)
+- SLP(Single-Layer Perceptron)
 - MLP (Multi-Layer Perceptron)
 
 ## Libraries
