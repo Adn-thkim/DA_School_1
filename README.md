@@ -53,7 +53,7 @@
 
 ## DeepLearning
 - SLP(Single-Layer Perceptron)
-- MLP (Multi-Layer Perceptron)
+- MLP(Multi-Layer Perceptron)
 
 ## Libraries
 **Data Pre-Processing**
