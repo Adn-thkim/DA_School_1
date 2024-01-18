@@ -61,7 +61,7 @@
 - Numpy
 
 **Web Scrapping**
-- BeautifulSoup
+- BeautifulSoup(bs4)
 - Requests
 - Selenium
   
