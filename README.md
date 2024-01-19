@@ -66,7 +66,7 @@
 - Selenium
   
 **Visualization**
-- Matplotlib
+- Matplotlib(pyplot)
 - Seaborn
 - Plotly
 - Folium
