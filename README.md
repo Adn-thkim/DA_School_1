@@ -34,7 +34,7 @@
 - RFM(Recency, Frequency, Monetary)
 - Cohort Analysis
 
-## Machine Learning
+## Machine Learning Algorithms
 - Regression
 - Logistic Regression
 - Decision Tree
