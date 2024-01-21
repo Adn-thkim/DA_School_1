@@ -14,7 +14,7 @@
   - Comparison(비교)
   - Logical(논리)
 - Function(함수)
-  - Gerneral Function(def)
+  - Define Function(def)
   - Decorator
   - Generator
 - Control Statement(제어문)
