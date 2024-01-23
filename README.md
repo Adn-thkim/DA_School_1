@@ -47,7 +47,8 @@
   - PCA(주성분 분석, Principle Component Analysis)
 
 ### Evaluation Metrics
-  - RMSE(Root Mean Square Error), RMSLE
+  - RMSE(Root Mean Squared Error)
+  - RMSLE
   - R-Squared
   - Silouhette Score
 
