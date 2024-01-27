@@ -49,7 +49,7 @@
 ### Evaluation Metrics
   - RMSE(Root Mean Squared Error)
   - RMSLE(Root Mean Squared Log Error)
-  - MAE
+  - MAE(Mean Absolute Error)
   - R-Squared
   - Silouhette Score
 
