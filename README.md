@@ -50,6 +50,7 @@
   - RMSE(Root Mean Squared Error)
   - RMSLE(Root Mean Squared Log Error)
   - MAE(Mean Absolute Error, L1 Loss)
+  - MSE
   - R-Squared
   - Silouhette Score
 
