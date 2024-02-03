@@ -37,7 +37,7 @@
 ## Machine Learning Algorithms
 - Regression
 - Logistic Regression
-- Decision Tree
+- Decision Tree(Classification, Regression)
 - Ensemble(Bagging, Random Forest, XGBoost, LightGBM, CatBoost)
 - k-NN(k-Nearest Neighbor)
 - Clustering
