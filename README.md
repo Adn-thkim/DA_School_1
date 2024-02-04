@@ -1,4 +1,4 @@
-# Python을 활용한 EDA 및 Machine Learning
+# Python 학습 정리 (EDA & Machine Learning)
 
 ## Study notes
 - Immutable Data Type(불변 자료형)
