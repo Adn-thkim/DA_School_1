@@ -1,2 +1,5 @@
 ## Python
 - EDA
+
+## SQL
+- MySQL
