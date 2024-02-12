@@ -4,5 +4,7 @@
 - DeepLearning
 
 ## SQL
+
+### Languages
 - MySQL
 - BigQuery
