@@ -6,5 +6,7 @@
 ## SQL
 
 ### Languages
+---
 - MySQL
 - BigQuery
+- Oracle
