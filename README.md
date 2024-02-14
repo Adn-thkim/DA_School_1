@@ -4,7 +4,7 @@
 - DeepLearning
 
 ## SQL
-
+- DQL(SELECT)
 ### Languages
 ---
 - MySQL
