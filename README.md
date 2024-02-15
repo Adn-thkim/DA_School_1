@@ -4,7 +4,7 @@
 - DeepLearning
 
 ## SQL
-- DQL(SELECT)
+- WINDOW FUNCTION
 ### Languages
 ---
 - MySQL
