@@ -5,6 +5,7 @@
 
 ## SQL
 - WINDOW FUNCTION
+- SUBQUERY
 ### Languages
 ---
 - MySQL
