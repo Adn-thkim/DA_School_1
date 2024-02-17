@@ -6,6 +6,8 @@
 ## SQL
 - WINDOW FUNCTION
 - SUBQUERY
+- JOIN
+
 ### Languages
 ---
 - MySQL
