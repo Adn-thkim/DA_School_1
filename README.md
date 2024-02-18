@@ -7,6 +7,7 @@
 - WINDOW FUNCTION
 - SUBQUERY
 - JOIN
+- UNION
 
 ### Languages
 ---
