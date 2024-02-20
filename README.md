@@ -8,6 +8,7 @@
 - SUBQUERY & WITH
 - JOIN
 - UNION
+- Operators & Functions
 
 ### Languages
 ---
