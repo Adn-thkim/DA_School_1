@@ -9,6 +9,7 @@
 - JOIN
 - UNION
 - OPERATOR & FUNCTION
+- SET
 
 ### Languages
 ---
