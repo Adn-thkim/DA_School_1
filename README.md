@@ -10,7 +10,7 @@
 - UNION
 - OPERATOR & FUNCTION
 - SET
-- GROUP BY
+- GROUP BY & DISTINCT
 
 ### Languages
 ---
