@@ -11,6 +11,7 @@
 - OPERATOR & FUNCTION
 - SET
 - GROUP BY & DISTINCT
+- ORDER BY
 
 ### Languages
 ---
