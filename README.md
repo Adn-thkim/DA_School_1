@@ -12,7 +12,7 @@
 - SET
 - GROUP BY & DISTINCT
 - ORDER BY
-- IF
+- IF & CASE
 
 ### Languages
 ---
