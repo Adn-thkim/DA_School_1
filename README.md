@@ -10,6 +10,8 @@
 - UNION
 - OPERATOR(비교, 산술, 논리) & BETWEEN & LIKE
 - FUNCTION
+  - 날짜형
+  - 숫자형
 - SET
 - GROUP BY & DISTINCT
 - ORDER BY
