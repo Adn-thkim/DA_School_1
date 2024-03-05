@@ -9,6 +9,7 @@
 - JOIN
   - INNER
   - FULL & LEFT & RIGHT OUTER
+  - SELF
 - UNION
 - OPERATOR(비교, 산술, 논리)
 - EXPRESSION
