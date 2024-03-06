@@ -10,6 +10,7 @@
   - INNER
   - FULL & LEFT & RIGHT OUTER
   - SELF
+  - CROSS(Cartesian)
 - UNION
 - OPERATOR(비교, 산술, 논리)
 - EXPRESSION
