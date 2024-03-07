@@ -16,12 +16,13 @@
 - EXPRESSION
   - BETWEEN
   - LIKE
+  - DISTINCT
 - FUNCTION
   - 날짜형
   - 숫자형
   - 문자형
 - SET
-- GROUP BY & DISTINCT
+- GROUP BY
 - ORDER BY
 - IF & CASE
 
