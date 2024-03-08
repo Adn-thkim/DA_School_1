@@ -4,6 +4,10 @@
 - DeepLearning
 
 ## SQL
+- EXPRESSION
+  - BETWEEN
+  - LIKE
+  - DISTINCT
 - WINDOW FUNCTION
 - SUBQUERY & WITH
 - JOIN
@@ -13,10 +17,6 @@
   - CROSS(Cartesian)
 - UNION
 - OPERATOR(비교, 산술, 논리)
-- EXPRESSION
-  - BETWEEN
-  - LIKE
-  - DISTINCT
 - FUNCTION
   - 날짜형
   - 숫자형
