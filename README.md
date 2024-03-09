@@ -4,6 +4,7 @@
 - DeepLearning
 
 ## SQL
+- OPERATOR(비교, 산술, 논리)
 - EXPRESSION
   - BETWEEN
   - LIKE
@@ -16,7 +17,6 @@
   - SELF
   - CROSS(Cartesian)
 - UNION
-- OPERATOR(비교, 산술, 논리)
 - FUNCTION
   - 날짜형
   - 숫자형
