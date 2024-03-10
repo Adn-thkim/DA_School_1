@@ -9,6 +9,10 @@
   - BETWEEN
   - LIKE
   - DISTINCT
+- FUNCTION
+  - 날짜형
+  - 숫자형
+  - 문자형
 - WINDOW FUNCTION
 - SUBQUERY & WITH
 - JOIN
@@ -17,10 +21,6 @@
   - SELF
   - CROSS(Cartesian)
 - UNION
-- FUNCTION
-  - 날짜형
-  - 숫자형
-  - 문자형
 - SET
 - GROUP BY
 - ORDER BY
