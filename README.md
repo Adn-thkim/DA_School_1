@@ -13,6 +13,8 @@
   - 날짜형
   - 숫자형
   - 문자형
+- GROUP BY
+- ORDER BY
 - WINDOW FUNCTION
 - SUBQUERY & WITH
 - JOIN
@@ -22,8 +24,6 @@
   - CROSS(Cartesian)
 - UNION
 - SET
-- GROUP BY
-- ORDER BY
 - IF & CASE
 
 ### Languages
