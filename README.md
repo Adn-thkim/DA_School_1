@@ -15,6 +15,7 @@
   - 문자형
 - GROUP BY
 - ORDER BY
+- IF & CASE
 - WINDOW FUNCTION
 - SUBQUERY & WITH
 - JOIN
@@ -24,7 +25,6 @@
   - CROSS(Cartesian)
 - UNION
 - SET
-- IF & CASE
 
 ### Languages
 ---
