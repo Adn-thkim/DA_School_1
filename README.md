@@ -18,7 +18,7 @@
 - IF & CASE
 - JOIN
   - INNER
-  - FULL, LEFT, RIGHT OUTER
+  - OUTER(FULL, LEFT, RIGHT)
   - SELF
   - CROSS(Cartesian)
 - SUBQUERY
