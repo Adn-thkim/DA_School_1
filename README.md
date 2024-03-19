@@ -23,8 +23,8 @@
   - CROSS(Cartesian)
 - SUBQUERY
 - WITH
-- WINDOW FUNCTION
 - UNION
+- WINDOW FUNCTION
 - SET
 
 ### Languages
