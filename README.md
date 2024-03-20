@@ -19,6 +19,7 @@
 - JOIN
   - INNER
   - OUTER(FULL, LEFT, RIGHT)
+    - FULL JOIN은 MySQL 미지원
   - SELF
   - CROSS(Cartesian)
 - SUBQUERY
