@@ -26,7 +26,7 @@
 - WITH
 - UNION
   - ALL
-  - DISTINCT
+  - DISTINCT(Default)
   - INTERSECT
   - MINUS
 - WINDOW FUNCTION
