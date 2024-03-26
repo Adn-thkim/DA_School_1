@@ -13,7 +13,7 @@
   - 날짜형
   - 숫자형
   - 문자형
-- GROUP BY
+- GROUP BY(HAVING)
 - ORDER BY
 - IF & CASE
 - JOIN
