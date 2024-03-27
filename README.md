@@ -13,6 +13,7 @@
   - 날짜형
   - 숫자형
   - 문자형
+  - 형변환
 - GROUP BY(HAVING)
 - ORDER BY
 - IF & CASE
