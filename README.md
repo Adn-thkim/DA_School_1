@@ -18,7 +18,7 @@
 - ORDER BY
 - IF & CASE
 - JOIN
-  - INNER
+  - INNER(Default)
   - OUTER(FULL, LEFT, RIGHT)
     - FULL JOIN은 MySQL 미지원
   - SELF
