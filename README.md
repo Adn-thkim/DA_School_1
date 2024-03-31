@@ -9,6 +9,7 @@
   - BETWEEN
   - LIKE
   - DISTINCT
+  - LIMIT
 - FUNCTION
   - 날짜형
   - 숫자형
