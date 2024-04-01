@@ -1,5 +1,5 @@
 ## Python
-- EDA
+- 전처리 및 EDA
 - Machine Learning
 - DeepLearning
 
