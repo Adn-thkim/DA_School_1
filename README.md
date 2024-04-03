@@ -1,5 +1,6 @@
 ## Python
 - 전처리 및 EDA
+- 통계분석
 - Machine Learning
 - DeepLearning
 
