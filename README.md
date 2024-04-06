@@ -22,7 +22,8 @@
 - JOIN
   - INNER(Default)
   - OUTER(FULL, LEFT, RIGHT)
-    - FULL JOIN: MySQL 미지원(RIGHT와 LEFT JOIN을 UNION하여 구현)
+    - FULL JOIN: MySQL 미지원
+    - RIGHT와 LEFT JOIN을 UNION DISTINCT 연산하여 구현
   - SELF
   - CROSS(Cartesian)
 - SUBQUERY
