@@ -19,7 +19,9 @@
 - GROUP BY
   - HAVING
 - ORDER BY
-- IF & CASE
+- 조건문
+  - IF
+  - CASE
 - JOIN
   - INNER(Default)
   - OUTER(FULL, LEFT, RIGHT)
