@@ -37,6 +37,8 @@
   - INTERSECT
   - MINUS
 - WINDOW FUNCTION
+  - 함수
+  - OVER
 - SET
 
 ### Languages
