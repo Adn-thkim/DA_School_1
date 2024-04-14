@@ -39,7 +39,7 @@
 - WINDOW FUNCTION
   - 함수
   - OVER
-  - Frame
+  - Frame절
 - SET
 
 ### Languages
