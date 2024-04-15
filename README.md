@@ -5,7 +5,12 @@
 - DeepLearning
 
 ## SQL
-- OPERATOR(대입, 비교, 산술, 논리, 비트)
+- OPERATOR
+  - 대입
+  - 비교
+  - 산술
+  - 논리
+  - 비트
 - EXPRESSION
   - BETWEEN
   - LIKE
