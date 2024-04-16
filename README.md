@@ -44,7 +44,7 @@
 - WINDOW FUNCTION
   - 함수
   - OVER
-  - Frame절
+  - FRAME절
 - SET
 
 ### Languages
